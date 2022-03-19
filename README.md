@@ -1,5 +1,5 @@
 ## Hey :wave:, good to see you!
-<p align='left'> I'm Maxim Semkin - @zaneevat :boy:, Fullstack developer company <a href='https://cable.ru' target=_blank>Кабель.РФ®</a>. You can view my resume <a href='https://career.habr.com/m_semkin/print.pdf ' target=_blank><u>here</u>.</a></p>
+<p align='left'> I'm Maxim Semkin - @zaneevat :boy:, Fullstack developer company <a href='https://cable.ru' target=_blank>Кабель.РФ®</a>. You can view my resume <a href='https://career.habr.com/m_semkin/print.pdf' target=_blank><u>here</u>.</a></p>
 
 ## Technologies I work with
 <p>
@@ -16,5 +16,38 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+## Open source contributer
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/symfony/symfony"><b>Symfony</b></a></td>
+      <td></td>
+      <td><a href='https://github.com/symfony/symfony/pull/44404' target=_blank>
+        Missing translations for Belarusian (be)
+        <img alt="Merged" src="https://img.shields.io/badge/-Merged-E34F26?color=ff69b4&logo=github&logoColor=white"/>
+        <img alt="Closed" src="https://img.shields.io/badge/-Closed-E34F26?style=flat-square&logo=github&logoColor=white"/>
+      </a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/uderline/openapi-php-attributes"><b>OpenAPI PHP Attributes Generator</b></a></td>
+      <td><a href='https://github.com/uderline/openapi-php-attributes/issues/16' target=_blank>
+        Using ref Property<img alt="Closed" src="https://img.shields.io/badge/-Closed-E34F26?style=flat-square&logo=github&logoColor=white"/>
+      </a></td>
+      <td><a href='https://github.com/uderline/openapi-php-attributes/pull/18' target=_blank>
+        Added the ability to specify a ref to a schema in the Property attribute
+        <img alt="Merged" src="https://img.shields.io/badge/-Merged-E34F26?color=ff69b4&logo=github&logoColor=white"/>
+        <img alt="Closed" src="https://img.shields.io/badge/-Closed-E34F26?style=flat-square&logo=github&logoColor=white"/>
+      </a></td>
+    </tr>
+  </tbody>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaneevat&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
